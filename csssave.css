@@ -1,3 +1,13 @@
 body{
 	background-color: red;
 }
+
+#enter{
+	font-size: 30px;
+	color: white;
+	font-family: "impact" ;
+}
+
+#challenge{
+	position: center;
+}
